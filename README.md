@@ -1,6 +1,6 @@
 # Moonbridge
 
-[*Project for Polkadot Hackathon: North America Edition*](https://devpost.com/software/moonbridge)
+[*Project for Polkadot Hackathon*]
 
 The ultimate Moonbeam bridge and explorer. Bridge multichain assets and see your transactions all in one place.
 
